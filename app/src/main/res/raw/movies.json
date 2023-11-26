@@ -1,0 +1,27 @@
+{ "movies": [
+  {
+    "name" : "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "critics_rating": 7.2,
+    "language": ["Russian", "English", "French"],
+    "viewing_area": ["Kinopoisk", "Torrent", "Netflix"]
+  },
+  {
+    "name" : "Matrix",
+    "year": 1999,
+    "rating": 8.2,
+    "critics_rating": 9.3,
+    "language": ["Russian", "English"],
+    "viewing_area": ["Torrent", "Netflix"]
+  },
+  {
+    "name" : "13th floor",
+    "year": 1999,
+    "rating": 8.1,
+    "critics_rating": 8.3,
+    "language": ["Chinese", "English", "Malaysian"],
+    "viewing_area": ["Disney+", "Torrent"]
+  }
+]
+}
